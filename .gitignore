@@ -11,3 +11,5 @@
 vendor/
 
 .env
+
+.DS*
